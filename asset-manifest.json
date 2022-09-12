@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/CryptoWidget/static/css/main.a3fccb96.css",
+    "main.js": "/CryptoWidget/static/js/main.4355d31d.js",
+    "index.html": "/CryptoWidget/index.html",
+    "main.a3fccb96.css.map": "/CryptoWidget/static/css/main.a3fccb96.css.map",
+    "main.4355d31d.js.map": "/CryptoWidget/static/js/main.4355d31d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a3fccb96.css",
+    "static/js/main.4355d31d.js"
+  ]
+}
